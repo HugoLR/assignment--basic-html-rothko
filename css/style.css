@@ -1,0 +1,71 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+  border: 4px double black;
+  padding: 30px;
+}
+
+h1 {
+  margin-bottom: 0;
+  /* letter-spacing: 1px; */
+}
+
+h2 {
+  margin-top: 0px;
+  color: #BB4244;
+}
+
+.main {
+  font-size: 30px;
+}
+
+.main a {
+  text-decoration: none;
+  color: black;
+}
+
+.main p {
+  margin-bottom: 70px;
+}
+
+hr {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.exhibition {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.sponsor {
+  height: 100px;
+}
+
+.sponsor img {
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.partner {
+  margin-top: 20px;
+  height: 100px;
+}
+
+.partner img {
+  vertical-align: middle;
+}
+
+.partner p {
+  vertical-align: middle;
+  margin: 0;
+  margin-right: 10px;
+  display: inline-block;
+  position: relative;
+  top: 25px;
+}
+
+.logo-final {
+  width: 700px;
+  margin-top: 20px;
+}
